@@ -1,0 +1,18 @@
+Thank you for your purchase of Meross products! The release note of this disk is 
+shown below:
+================================================================================
+
+P/N: 6112000002
+Date: 2017-09-11
+
+-Add Mac_OS_X_10.9.5 driver.
+-Add Linux_4.x_beta driver.
+
+===================================
+
+P/N: 6112000002		
+Date: 2017-05-06
+
+-First release.
+
+===================================
